@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1095083938751",
+    "firebase_url": "https://pptb-60758.firebaseio.com",
+    "project_id": "pptb-60758",
+    "storage_bucket": "pptb-60758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095083938751:android:212123b49c4e8f22",
+        "android_client_info": {
+          "package_name": "ghifari.pptb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095083938751-hvjvf36k3nmivgj93v1jfjpsq30m99fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ghifari.pptb",
+            "certificate_hash": "e9c1897576530efc17bfee5198f68cd1dcd8369a"
+          }
+        },
+        {
+          "client_id": "1095083938751-ttlnbfm0npmm3capchmf3p85pqqlmbl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ghifari.pptb",
+            "certificate_hash": "e7a133a2666885949fc9c602fca5ff4ad421a7e6"
+          }
+        },
+        {
+          "client_id": "1095083938751-a6bmem8a5sd0q0blhlblsah3okrcig34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCc5xsz8YWoAtb7DbXQW2fdhUjGLaIVEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095083938751-a6bmem8a5sd0q0blhlblsah3okrcig34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
